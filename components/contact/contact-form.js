@@ -74,7 +74,7 @@ function ContacForm() {
     notification = {
       status: "success",
       title: "Success!",
-      message: "Poruka je uspjesno poslana.", //Message send successfully
+      message: "Message send successfully",
     };
   }
 
