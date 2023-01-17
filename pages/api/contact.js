@@ -28,7 +28,7 @@ async function handler(req, res) {
     let client;
 
     const connectionString =
-      "mongodb+srv://Ensar_MongoDB:Love1986+@cluster0.1odepbc.mongodb.net/my-site-dev?retryWrites=true&w=majority";
+      "mongodb+srv://Ensar_MongoDB:G6nOlo0WUDHxntqV@cluster0.1odepbc.mongodb.net/my-site-dev?retryWrites=true&w=majority";
     // const connectionString = `mongodb+srv://${process.env.mongodb_username}:${process.env.mongodb_password}@${process.env.mongodb_clustername}.1odepbc.mongodb.net/${process.env.mongodb_database}?retryWrites=true&w=majority`;
     // we use this code when is anable "module.exports" function in next.config.js
     try {
