@@ -5,7 +5,7 @@
 //     return {
 //       env: {
 //         mongodb_username: "Ensar_MongoDB",
-//         mongodb_password: "",
+//         mongodb_password: " ",
 //         mongodb_clustername: "cluster0",
 //         mongodb_database: "my-site-dev",
 //       },
@@ -15,7 +15,7 @@
 //   return {
 //     env: {
 //       mongodb_username: "Ensar_MongoDB",
-//       mongodb_password: "",
+//       mongodb_password: " ",
 //       mongodb_clustername: "cluster0",
 //       mongodb_database: "my-site",
 //     },
