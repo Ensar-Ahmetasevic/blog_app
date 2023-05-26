@@ -27,7 +27,7 @@ async function handler(req, res) {
 
     let client;
 
-    const connectionString = env("DATABASE_URL");
+    const connectionString = process.env.DATABASE_URL;
 
     try {
       client = await MongoClient.connect(connectionString);
